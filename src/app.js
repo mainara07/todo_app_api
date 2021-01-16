@@ -1,6 +1,6 @@
 const express = require('express')
-const usuarioController = require('/.controllers/usuario-controller.js') //importando o que esta c/ *exports* no arquivo
-const tarefaController = require('/.controllers/tarefa-controller.js') //importando o que esta c/ *exports* no arquivo
+const usuarioController = require('./controllers/usuario-controller.js') //importando o que esta c/ *exports* no arquivo
+const tarefaController = require('./controllers/tarefa-controller.js') //importando o que esta c/ *exports* no arquivo
 const app = express()
 const port = 8080
 
