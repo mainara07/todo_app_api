@@ -1,0 +1,27 @@
+{
+  "name": "todo_app_api",
+  "version": "1.0.0",
+  "description": "Projeto de Módulo - Criando uma API - ToDo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon .src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainara07/todo_app_api.git"
+  },
+  "keywords": [],
+  "author": "Mainara Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainara07/todo_app_api/issues"
+  },
+  "homepage": "https://github.com/mainara07/todo_app_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
