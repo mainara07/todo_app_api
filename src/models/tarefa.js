@@ -1,8 +1,8 @@
 module.exports= class Tarefa {
-    constructor (titulo, descricao,status, dataDeCriacao){
+    constructor (titulo, descricao, status, dataCriacao){
         this.titulo=titulo;
         this.descricao=descricao;
         this.status=status;
-        this.dataDeCriacao=dataDeCriacao;
+        this.dataCriacao=dataCriacao;
     }
 }
