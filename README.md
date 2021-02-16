@@ -3,11 +3,11 @@
 ## Sobre: 
 Este projeto foi realizado e desenvolvido durante o módulo de back-end do curso de Desenvolvimento Web na [Resília Educação](https://www.resilia.work). 
 
-Trata-se de uma aplicação de gerenciamento de tempo por meio de tarefas onde o usuário consegue fazer cadastros, inserir tarefas e alterá-las de acordo com o status:
+Trata-se de uma aplicação para auxílio e gerenciamento de tempo por meio do acompanhamento de tarefas de um usuário destadas pelos status:
 <strong>
-* 1. Em andamento *,
-* 2. Contínua * e 
-* 3. Concluído *
+*  Em andamento *
+*  Contínua * 
+*  Concluído *
 </strong>
 
 Para dar início a utilização dessa API é necessário que tenha o `Node.js` previamente instalado em sua máquina. 
