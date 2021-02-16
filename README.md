@@ -15,19 +15,19 @@ Para dar início a utilização dessa API é necessário que tenha o `Node.js` p
 Para clonar o repositório execute em seu terminal (cmd):
 `git clone` https://github.com/mainara07/todo_app_api.git
 
-## Como instalar as dependências do projeto;
+## Como instalar as dependências do projeto :question:
 Para instalação das dependências é necessário o uso do gerenciador de pacote NPM
 
 ### Execute: 
 
- 💻 `npm install` -> este comando irá instalar todas as dependencias presentes neste aplicativo
+ 💻 `npm install` :point_right: este comando irá instalar todas as dependencias presentes neste aplicativo
 
- 💻  `npm start`-> este comando irá ativar o servidor na sua máquina
+ 💻  `npm start`:point_right: este comando irá ativar o servidor na sua máquina
 
-## Quais são as rotas possíveis;
+## Quais são as rotas possíveis :question:
 
 Nesta aplicação trabalharemos com duas entidades: `Usuário` e `Tarefa`.
-O projeto foi desenvolvido com base no modelo de arquitetura REST realizando requisições com os seguintes verbos HTTP: 
+O projeto foi desenvolvido com base no modelo de arquitetura `REST` realizando requisições com os seguintes verbos HTTP: 
 
 * **GET**
 * **POST**
