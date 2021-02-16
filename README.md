@@ -20,9 +20,9 @@ Para instalação das dependências é necessário o uso do gerenciador de pacot
 
 ### Execute: 
 
- 💻 `npm install` -> este comando irá instalar todas as dependencias presentes neste aplicativo
+ 💻 `npm install` :point_right: este comando irá instalar todas as dependencias presentes neste aplicativo
 
- 💻  `npm start`-> este comando irá ativar o servidor na sua máquina
+ 💻  `npm start`:point_right: este comando irá ativar o servidor na sua máquina
 
 ## Quais são as rotas possíveis :question:
 
