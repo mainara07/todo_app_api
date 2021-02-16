@@ -1,13 +1,13 @@
 
 # :rocket: Desenvolvimento de uma API RESTFULL
 ## Sobre: 
-Este projeto foi realizado e desenvolvido durante o módulo de back-end do curso de Desenvolvimento Web na [Resília Educação](https://www.resilia.work). 
+Este projeto foi desenvolvido durante o módulo de back-end do curso de Desenvolvimento Web na [Resília Educação](https://www.resilia.work). 
 
-Trata-se de uma aplicação para auxílio e gerenciamento de tempo por meio do acompanhamento de tarefas de um usuário destadas pelos status:
+Trata-se de uma aplicação para auxílio e gerenciamento de tempo por meio do acompanhamento de tarefas de um usuário. As tarefas são monitoradas pelos status:
 <strong>
-*  Em andamento *
-*  Contínua * 
-*  Concluído *
+*  Em andamento 
+*  Contínua 
+*  Concluído 
 </strong>
 
 Para dar início a utilização dessa API é necessário que tenha o `Node.js` previamente instalado em sua máquina. 
@@ -27,5 +27,10 @@ Para instalação das dependências é necessário o uso do gerenciador de pacot
 ## Quais são as rotas possíveis;
 
 Nesta aplicação trabalharemos com duas entidades: `Usuário` e `Tarefa`.
-O projeto foi desenvolvido com base no modelo de arquitetura REST realizando requisições com os seguintes verbos HTTP: **GET, POST, UPDATE e DELETE**
+O projeto foi desenvolvido com base no modelo de arquitetura REST realizando requisições com os seguintes verbos HTTP: 
+
+* **GET**
+* **POST**
+* **UPDATE** 
+* **DELETE**
 
