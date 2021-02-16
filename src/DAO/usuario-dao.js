@@ -42,7 +42,7 @@ module.exports = class UsuarioDAO {
 
     atualizaUsr (dados) {
         return new Promise ((resolve, reject) => {
-            this.bd.run("UPTADE USUARIOS SET NOME=?, EMAIL=?, SENHA=? WHERE ID= ?", dados, (erro) => {
+            this.bd.run("UPDATE USUARIOS SET NOME=?, EMAIL=?, SENHA=? WHERE ID= ?", dados, (erro) => {
                 if (erro) reject ("Erro ao atualizar tabela")
                 else resolve("Tabela atualizada")
             })
