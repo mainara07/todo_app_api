@@ -2,7 +2,12 @@
 <h1> :rocket: Projeto de Módulo III - Desenvolvimento de uma API </h1>
 <strong> Sobre: </strong> Este projeto foi realizado e desenvolvido durante o módulo de back-end do curso de Desenvolvimento Web na [Resília Educação](https://www.resilia.work/). 
 
-Trata-se de uma API c 
+Trata-se de uma aplicação de gerenciamento de tempo por meio de tarefas onde o usuário consegue fazer cadastros, inserir tarefas e alterá-las de acordo com o status:
+<strong>
+*Em andamento*
+*Contínua*
+*Concluído*
+</strong>
 
 
 
