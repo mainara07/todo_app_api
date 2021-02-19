@@ -14,6 +14,10 @@ app.use(bodyParser.json());
 usuarioController(app,bd)
 tarefaController(app,bd)
 
+
+app.get ('/', (req, resp)=> {
+  resp.send("Tô rodando no Heroku")
+})
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
