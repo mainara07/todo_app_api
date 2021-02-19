@@ -27,7 +27,7 @@ Para instalação das dependências é necessário o uso do gerenciador de pacot
 ## Quais são as rotas possíveis :question:
 
 Nesta aplicação trabalharemos com duas entidades: `Usuário` e `Tarefa`.
-O projeto foi desenvolvido com base no modelo de arquitetura `REST` realizando requisições com os seguintes verbos HTTP: 
+O projeto foi desenvolvido com base no modelo de arquitetura `REST` realizando requisições com os seguintes verbos HTTP para modificar e enviar dados: 
 
 * **GET**
 * **POST**
