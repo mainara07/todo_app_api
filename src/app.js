@@ -14,6 +14,7 @@ app.use(bodyParser.json());
 usuarioController(app,bd)
 tarefaController(app,bd)
 
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })

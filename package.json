@@ -2,7 +2,7 @@
   "name": "todo_app_api",
   "version": "1.0.0",
   "description": "Projeto de Módulo - Criando uma API\r Desenvolvimento da primeira API juntamente com aplicativo \"To-do\".\r Projeto em desenvolvimento durante o Curso da Resilia Educação.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,6 +23,9 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "sqlite3": "^5.0.0"
+  },
+  "engines": {
+    "node": "14.x"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
