@@ -36,14 +36,14 @@ O projeto foi desenvolvido com base no modelo de arquitetura `REST` realizando r
 
 ## ROTAS
 
-➡️ Para usuário
+### ➡️ Para usuário
 * http://localhost:8080/usuario - Rota com *GET* que listará todos os usuários 
 * http://localhost:8080/usuario - Rota com *POST* para criação de usuário no banco
 * http://localhost:8080/usuario/:id - Rota *PUT* - Altera dados do usuário conforme id passado
 * http://localhost:8080/usuario/:id - Rota com *DELETE* que irá deletar um registro na tabela de **usuários** com base no id passado 
 * http://localhost:8080/usuario/:id- Rota com *GET* que apresenta um usuário com base no ID passado
 
-➡️ Para tarefa 
+### ➡️ Para tarefa 
 * http://localhost:8080/tarefa - Rota com *GET* que listará todos as tarefas
 * http://localhost:8080/tarefa - Rota com *POST* para criação de tarefa no banco
 * http://localhost:8080/tarefa/:id - Rota com *PUT* que realiza alteração de dados em alguma **tarefa** conforme id passado
